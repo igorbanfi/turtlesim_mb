@@ -6,7 +6,7 @@ Modified [turtlesim](http://wiki.ros.org/turtlesim) ROS package for use with ROS
 static_map_topic: topic on which static map is being published
 
 ### Example
-![Example](Example.png "Example")
+<img src="example.png" width="300">
 
 ### TODO
 - collision detection
